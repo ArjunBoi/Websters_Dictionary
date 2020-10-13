@@ -5,3 +5,6 @@ A very basic implementation of an alphabetical dictionary, currently _only_ func
 
 ### **Note:**
 The file `dictionary_alpha_arrays.json` has been borrowed from [Matthew Reagan's Repository](https://github.com/matthewreagan/WebstersEnglishDictionary).
+<br/><br/>
+
+![alt text](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
